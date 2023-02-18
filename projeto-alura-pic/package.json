@@ -1,0 +1,14 @@
+{
+  "name": "projeto-alura-pic",
+  "version": "1.0.0",
+  "description": "Segundo projeto para estudos (Alura pic)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Amoralih",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
