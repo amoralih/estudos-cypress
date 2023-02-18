@@ -1,0 +1,19 @@
+{
+  "name": "estudos-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoralih/estudos-cypress.git"
+  },
+  "author": "Amoralih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoralih/estudos-cypress/issues"
+  },
+  "homepage": "https://github.com/amoralih/estudos-cypress#readme"
+}
